@@ -1,5 +1,6 @@
 # fail
 
+#답안 예시
 n, m = map(int, input().split())
 
 graph = []
